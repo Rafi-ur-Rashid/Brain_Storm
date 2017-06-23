@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_option">OptionActivity</string>
+    <string name="title_activity_num_pyramid">num_pyramidActivity</string>
+    <string name="title_activity_short_term_memory">Short_term_memory</string>
+</resources>
