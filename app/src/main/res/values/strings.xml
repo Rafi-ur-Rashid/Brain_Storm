@@ -1,11 +1,13 @@
 <resources>
-    <string name="app_name">Puzzle</string>
+    <string name="app_name">Brain Storm</string>
     <string name="action_settings">Settings</string>
-
+    <string name="action_highScore">High Scores</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="title_activity_second">SecondActivity</string>
-    <string name="title_activity_option">OptionActivity</string>
-    <string name="title_activity_num_pyramid">num_pyramidActivity</string>
-    <string name="title_activity_short_term_memory">Short_term_memory</string>
+    <string name="title_activity_option">Games</string>
+    <string name="Puzzle">PUZZLE</string>
+    <string name="title_activity_num_pyramid">Numerical Pyramid</string>
+    <string name="title_activity_short_term_memory">Short Term Memory</string>
+    <string name="title_activity_description_difficulty">descriptionDifficultyActivity</string>
+    <string name="title_activity_high_score">High Scores</string>
 </resources>

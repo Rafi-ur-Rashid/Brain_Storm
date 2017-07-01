@@ -4,7 +4,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/my_icon"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
@@ -22,7 +22,7 @@
         </activity>
         <activity
             android:name=".puzzleActivity"
-            android:label="@string/title_activity_option"
+            android:label="@string/Puzzle"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".OptionActivity"
@@ -35,6 +35,14 @@
         <activity
             android:name=".Short_term_memoryActivity"
             android:label="@string/title_activity_short_term_memory"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".descriptionDifficultyActivity"
+            android:label="@string/title_activity_description_difficulty"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".highScoreActivity"
+            android:label="@string/title_activity_high_score"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
